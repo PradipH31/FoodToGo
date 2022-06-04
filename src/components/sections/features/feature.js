@@ -3,31 +3,31 @@ import './feature.css'
 
 function Feature() {
     return (
-        <section class="features-section">
-            <div class="container">
-                <ul class="features-list">
+        <section className="features-section">
+            <div className="container">
+                <ul className="features-list">
                     <li>
-                        <div class="img-container">
+                        <div className="img-container">
                             <img src={process.env.PUBLIC_URL + "/images/fast.svg"} alt="fast-delivery"></img>
                         </div>
-                        <div class="feature-text">
+                        <div className="feature-text">
                             Fastest Delivery
                         </div>
                     </li>
                     <li>
-                        <div class="img-container">
+                        <div className="img-container">
                             <img src={process.env.PUBLIC_URL + "/images/customize.svg"} alt="customizable"></img>
                         </div>
-                        <div class="feature-text">
+                        <div className="feature-text">
                             Customize your orders
                         </div>
 
                     </li>
                     <li>
-                        <div class="img-container">
+                        <div className="img-container">
                             <img src={process.env.PUBLIC_URL + "/images/fresh.svg"} alt="fresh"></img>
                         </div>
-                        <div class="feature-text">
+                        <div className="feature-text">
                             Fresh products
                         </div>
                     </li>
