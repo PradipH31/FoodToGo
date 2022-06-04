@@ -240,7 +240,7 @@ nav img {
         padding: 10em 4em;
     }
 
-    .hero .container {
+    /* .hero .container {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -262,9 +262,9 @@ nav img {
     .hero-img {
         width: 30%;
         margin-right: 8em;
-    }
+    } */
 
-    .features-section ul {
+    /* .features-section ul {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -272,7 +272,7 @@ nav img {
 
     .features-section ul li {
         margin: 0 1em;
-    }
+    } */
 
     .contact-section {
         position: relative;
