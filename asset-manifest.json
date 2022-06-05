@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FoodToGo/static/css/main.0157926e.css",
-    "main.js": "/FoodToGo/static/js/main.82961a8d.js",
+    "main.css": "/FoodToGo/static/css/main.60b07adc.css",
+    "main.js": "/FoodToGo/static/js/main.b32c8915.js",
     "static/js/787.812f1501.chunk.js": "/FoodToGo/static/js/787.812f1501.chunk.js",
     "index.html": "/FoodToGo/index.html",
-    "main.0157926e.css.map": "/FoodToGo/static/css/main.0157926e.css.map",
-    "main.82961a8d.js.map": "/FoodToGo/static/js/main.82961a8d.js.map",
+    "main.60b07adc.css.map": "/FoodToGo/static/css/main.60b07adc.css.map",
+    "main.b32c8915.js.map": "/FoodToGo/static/js/main.b32c8915.js.map",
     "787.812f1501.chunk.js.map": "/FoodToGo/static/js/787.812f1501.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0157926e.css",
-    "static/js/main.82961a8d.js"
+    "static/css/main.60b07adc.css",
+    "static/js/main.b32c8915.js"
   ]
 }
