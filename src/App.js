@@ -4,6 +4,7 @@ import Header from './components/header/header';
 import Hero from './components/sections/hero/hero';
 import Feature from './components/sections/features/feature';
 import Contact from './components/sections/contact/contact';
+import MobileApp from './components/sections/mobileApp/mobileApp';
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Hero></Hero>
       <Feature></Feature>
       <Contact></Contact>
+      <MobileApp></MobileApp>
     </>
   )
 }
